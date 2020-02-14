@@ -11,5 +11,5 @@ Besides, we have offered a folder of code as well as a report in which we repres
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/chaopan1995/Elements-finis-pour-GCC/master/img/code.png">
 </p>
-
-<img src="https://raw.githubusercontent.com/chaopan1995/Elements-finis-pour-GCC/master/img/code.png">
+# How to run them
+Use Python 3 (e.g Spyder)
